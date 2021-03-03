@@ -28,9 +28,9 @@ Now I continue my studies at GoIt on the REACT course and repeat Js at Rolling s
 
 #### Tech skills:
 
-:small_orange_diamond:  Scrum
-:small_orange_diamond:  Agile
-:small_orange_diamond:  Teamwork
+:small_orange_diamond: Scrum
+:small_orange_diamond: Agile
+:small_orange_diamond: Teamwork
 
 #### Code examples:
 
