@@ -25,9 +25,11 @@ Maksim Lisovoi
 
 #### Projects:
 
-- [Filmoteka](https://maksimlisovoi.github.io/team-project-js-filmoteka/)
-- [HellEN - English school site](https://maksimlisovoi.github.io/parcel-project-template/)
-- [Web Studio](https://maksimlisovoi.github.io/goit-markup-hw-07/)
+- [Filmoteka](https://maksimlisovoi.github.io/team-project-js-filmoteka/) - [Git](https://github.com/MaksimLisovoi/team-project-js-filmoteka)
+
+- [HellEN - English school site](https://maksimlisovoi.github.io/parcel-project-template/) - [Git](https://github.com/MaksimLisovoi/parcel-project-template)
+
+- [Web Studio](https://maksimlisovoi.github.io/goit-markup-hw-07/) - [Git](https://github.com/MaksimLisovoi/goit-markup-hw-07)
 
 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое) \*
 Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.\*\*
