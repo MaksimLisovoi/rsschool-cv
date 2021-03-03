@@ -5,7 +5,7 @@ Maksim Lisovoi
 * [Facebook](https://www.facebook.com/MaksimLisovoi)
 * Tel: +380999703792
 
-####Tech skills:
+#### Tech skills:
 :small_orange_diamond: HTML5
 :small_orange_diamond: CSS3
 :small_orange_diamond: GIT
