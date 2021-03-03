@@ -1,9 +1,11 @@
 Maksim Lisovoi
+
 #### Contacts:
-* [GitHub](https://github.com/MaksimLisovoi)
-* [LinkedIn](https://www.linkedin.com/in/maksim-lisovoi-03a288200/)
-* [Facebook](https://www.facebook.com/MaksimLisovoi)
-* Tel: +380999703792
+
+- [GitHub](https://github.com/MaksimLisovoi)
+- [LinkedIn](https://www.linkedin.com/in/maksim-lisovoi-03a288200/)
+- [Facebook](https://www.facebook.com/MaksimLisovoi)
+- Tel: +380999703792
 
 #### Tech skills:
 
@@ -16,7 +18,16 @@ Maksim Lisovoi
 :small_orange_diamond: Node.js
 
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
+
+#### Code examples:
+
 Примеры кода
+
+#### Projects:
+
+- [Filmoteka](https://maksimlisovoi.github.io/team-project-js-filmoteka/)
+- [HellEN - English school site](https://maksimlisovoi.github.io/parcel-project-template/)
+- [Web Studio](https://maksimlisovoi.github.io/goit-markup-hw-07/)
 
 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое) \*
 Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.\*\*
