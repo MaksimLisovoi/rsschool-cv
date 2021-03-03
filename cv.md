@@ -2,7 +2,11 @@
 
 ### About:
 
-My name is Maxim. In 2020, I made the decision to become a front-end developer. And now I am finishing my studies at GoIt school on the Fullstack Js developer course. At the moment, my goal is to get a job as a Junior developer in a company, where I can consolidate my knowledge and gain experience.I already have experience working in a team as a team lead on 3 projects.
+My name is Maxim. In 2020, I made the decision to become a front-end developer.
+And now I am finishing my studies at GoIt school on the Fullstack Js developer course.
+At the moment, my goal is to get a job as a Junior developer in a company,
+where I can consolidate my knowledge and gain experience.
+I already have experience working in a team as a team lead on 3 projects.
 
 ### Contacts:
 
@@ -33,7 +37,7 @@ My name is Maxim. In 2020, I made the decision to become a front-end developer. 
 
 ### Projects:
 
-- [Filmoteka](https://maksimlisovoi.github.io/team-project-js-filmoteka/) - [Git](https://github.com/MaksimLisovoi/team-project-js-filmoteka)
+- [Filmoteka](https://maksimlisovoi.github.io/team-project-js-filmoteka/) - [Git](https://github.com/MaksimLisovoi/team-project-js-filmoteka) _HTML_
 
 - [HellEN - English school site](https://maksimlisovoi.github.io/parcel-project-template/) - [Git](https://github.com/MaksimLisovoi/parcel-project-template)
 
@@ -50,8 +54,3 @@ My name is Maxim. In 2020, I made the decision to become a front-end developer. 
 
 - American English Center (2012-2013)
 - Green Forest English school (2017-2018)
-
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое) \*
-Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.\*\*
-Образование (включая курсы, семинары, лекции, онлайн-обучение)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
