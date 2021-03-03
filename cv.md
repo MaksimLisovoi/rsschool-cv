@@ -31,6 +31,16 @@ Maksim Lisovoi
 
 - [Web Studio](https://maksimlisovoi.github.io/goit-markup-hw-07/) - [Git](https://github.com/MaksimLisovoi/goit-markup-hw-07)
 
+#### Education:
+
+- Zaporizhzhia National University, Journalist department, Bachelor`s degree in Journalism (2008 - 2012)
+- GoIt school, Full Stack Developer (2020 - 2021)
+
+#### English:
+
+- American English Center (2012-2013)
+- Green Forest English school (2017-2018)
+
 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое) \*
 Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.\*\*
 Образование (включая курсы, семинары, лекции, онлайн-обучение)
