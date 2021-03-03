@@ -7,6 +7,7 @@ And now I am finishing my studies at GoIt school on the Fullstack Js developer c
 At the moment, my goal is to get a job as a Junior developer in a company,
 where I can consolidate my knowledge and gain experience.
 I already have experience working in a team as a team lead on 3 projects.
+Now I continue my studies at GoIt on the REACT course and repeat Js at Rolling scopes school
 
 ### Contacts:
 
@@ -37,11 +38,11 @@ I already have experience working in a team as a team lead on 3 projects.
 
 ### Projects:
 
-- [Filmoteka](https://maksimlisovoi.github.io/team-project-js-filmoteka/) - [Git](https://github.com/MaksimLisovoi/team-project-js-filmoteka) _HTML_
+- [Filmoteka](https://maksimlisovoi.github.io/team-project-js-filmoteka/) - [Git](https://github.com/MaksimLisovoi/team-project-js-filmoteka) _HTML_ _CSS_ _JS_ _GULP_ _FIREBASE_
 
-- [HellEN - English school site](https://maksimlisovoi.github.io/parcel-project-template/) - [Git](https://github.com/MaksimLisovoi/parcel-project-template)
+- [HellEN - English school site](https://maksimlisovoi.github.io/parcel-project-template/) - [Git](https://github.com/MaksimLisovoi/parcel-project-template) _HTML_ _CSS_ _JS_ _PARCEL_
 
-- [Web Studio](https://maksimlisovoi.github.io/goit-markup-hw-07/) - [Git](https://github.com/MaksimLisovoi/goit-markup-hw-07)
+- [Web Studio](https://maksimlisovoi.github.io/goit-markup-hw-07/) - [Git](https://github.com/MaksimLisovoi/goit-markup-hw-07) _HTML_ _CSS_ _JS_
 
 ### Education:
 
