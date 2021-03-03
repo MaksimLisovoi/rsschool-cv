@@ -38,7 +38,7 @@ Now I continue my studies at GoIt on the REACT course and repeat Js at Rolling s
 
 ### Projects:
 
-- [Filmoteka](https://maksimlisovoi.github.io/team-project-js-filmoteka/) - [Git](https://github.com/MaksimLisovoi/team-project-js-filmoteka) _HTML_ _CSS_ _JS_ _GULP_ _FIREBASE_
+- [Filmoteka](https://maksimlisovoi.github.io/team-project-js-filmoteka/) - [Git](https://github.com/MaksimLisovoi/team-project-js-filmoteka) _HTML_| _CSS_| _JS_| _GULP_| _FIREBASE_
 
 - [HellEN - English school site](https://maksimlisovoi.github.io/parcel-project-template/) - [Git](https://github.com/MaksimLisovoi/parcel-project-template) _HTML_ _CSS_ _JS_ _PARCEL_
 
