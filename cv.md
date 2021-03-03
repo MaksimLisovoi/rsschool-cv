@@ -3,11 +3,11 @@
 ### About:
 
 My name is Maxim. In 2020, I made the decision to become a front-end developer.
-And now I am finishing my studies at **GoIt** school on the **Fullstack Js developer course.**
+And now I am finishing my studies at GoIt school on the Fullstack Js developer course.
 At the moment, my goal is to get a job as a Junior developer in a company,
 where I can consolidate my knowledge and gain experience.
 I already have experience working in a team as a team lead on 3 projects.
-Now I continue my studies at GoIt on the REACT course and repeat Js at **Rolling scopes school**
+Now I continue my studies at GoIt on the REACT course and repeat Js at Rolling scopes school
 
 ### Contacts:
 
@@ -32,6 +32,9 @@ Now I continue my studies at GoIt on the REACT course and repeat Js at **Rolling
 :small_orange_diamond:  Agile
 :small_orange_diamond:  Teamwork
 
+### Code examples:
+
+Примеры кода
 
 ### Projects:
 
