@@ -1,9 +1,9 @@
 Maksim Lisovoi
 ####Contacts:
-_[GitHub](https://github.com/MaksimLisovoi)
-_[LinkedIn](https://www.linkedin.com/in/maksim-lisovoi-03a288200/)
-*[Facebook](https://www.facebook.com/MaksimLisovoi)
-*Tel: +380999703792
+* [GitHub](https://github.com/MaksimLisovoi)
+* [LinkedIn](https://www.linkedin.com/in/maksim-lisovoi-03a288200/)
+* [Facebook](https://www.facebook.com/MaksimLisovoi)
+* Tel: +380999703792
 
 ####Tech skills:
 :small_orange_diamond:HTML5
