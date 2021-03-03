@@ -1,4 +1,4 @@
-Maksim Lisovoi
+## Maksim Lisovoi - Full Stack JS Developer
 
 #### Contacts:
 
@@ -16,6 +16,12 @@ Maksim Lisovoi
 :small_orange_diamond: JavaScript
 :small_orange_diamond: React.js
 :small_orange_diamond: Node.js
+
+#### Tech skills:
+
+:small_orange_diamond: Scrum
+:small_orange_diamond: Agile
+:small_orange_diamond: Teamwork
 
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 
