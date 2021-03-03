@@ -9,14 +9,14 @@ where I can consolidate my knowledge and gain experience.
 I already have experience working in a team as a team lead on 3 projects.
 Now I continue my studies at GoIt on the REACT course and repeat Js at Rolling scopes school
 
-### Contacts:
+#### Contacts:
 
 - [GitHub](https://github.com/MaksimLisovoi)
 - [LinkedIn](https://www.linkedin.com/in/maksim-lisovoi-03a288200/)
 - [Facebook](https://www.facebook.com/MaksimLisovoi)
 - Tel: +380999703792
 
-### Tech skills:
+#### Tech skills:
 
 :small_orange_diamond: HTML5
 :small_orange_diamond: CSS3
@@ -26,17 +26,17 @@ Now I continue my studies at GoIt on the REACT course and repeat Js at Rolling s
 :small_orange_diamond: React.js
 :small_orange_diamond: Node.js
 
-### Tech skills:
+#### Tech skills:
 
 :small_orange_diamond:  Scrum
 :small_orange_diamond:  Agile
 :small_orange_diamond:  Teamwork
 
-### Code examples:
+#### Code examples:
 
 Примеры кода
 
-### Projects:
+#### Projects:
 
 - [Filmoteka](https://maksimlisovoi.github.io/team-project-js-filmoteka/) - [Git](https://github.com/MaksimLisovoi/team-project-js-filmoteka) _HTML_ _CSS_ _JS_ _GULP_ _FIREBASE_
 
@@ -44,14 +44,12 @@ Now I continue my studies at GoIt on the REACT course and repeat Js at Rolling s
 
 - [Web Studio](https://maksimlisovoi.github.io/goit-markup-hw-07/) - [Git](https://github.com/MaksimLisovoi/goit-markup-hw-07) _HTML_ _CSS_ _JS_
 
-### Education:
+#### Education:
 
 - Zaporizhzhia National University, Journalist department, Bachelor`s degree in Journalism (2008 - 2012)
 - GoIt school, Full Stack Developer (2020 - 2021)
 
-### English:
-
-#### Intermediate Level
+#### English:
 
 - American English Center (2012-2013)
 - Green Forest English school (2017-2018)
