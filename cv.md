@@ -6,6 +6,7 @@ Maksim Lisovoi
 * Tel: +380999703792
 
 #### Tech skills:
+
 :small_orange_diamond: HTML5
 :small_orange_diamond: CSS3
 :small_orange_diamond: GIT
@@ -13,6 +14,7 @@ Maksim Lisovoi
 :small_orange_diamond: JavaScript
 :small_orange_diamond: React.js
 :small_orange_diamond: Node.js
+
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 Примеры кода
 
